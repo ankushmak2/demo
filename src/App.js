@@ -14,7 +14,7 @@ export const App = () => {
 
 // load +1
 )}, [])
- console.log(data)
+// console.log(data)
  //console.log(data[2])
 
 // const ids= data.map((e) => {
