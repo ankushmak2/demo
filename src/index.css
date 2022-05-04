@@ -99,7 +99,19 @@ h6 {
 /*
 Reset links to optimize for opt-in styling instead of opt-out.
 */
+.flexs{
+  
+  width: 100%;
+  height: 100%;
+}
+.new{
+  background-color: rgb(218, 230, 230);
+  width: 50%;
+  height: 50%;
+  margin-left: 25%;
+  margin-top: 5%;
 
+}
 a {
   color: inherit;
   text-decoration: inherit;

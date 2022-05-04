@@ -7,8 +7,8 @@ import React from 'react'
 const App = () => {
   return (
     <>
-    <div class=" 	h-full ...w-full			">
-      <div class=" 	w-6/12	h-3/5 mx-80 my-20		 bg-slate-50	">
+    <div className='flexs'>
+      <div className='new'>
       <div class="min-h-full  flex items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
   <div class="max-w-md w-full 
    space-y-8">
@@ -57,9 +57,9 @@ const App = () => {
       </div>
     </form>
   </div>
-</div></div>
 
-
+</div>
+</div>
     </div>
     </>
     
