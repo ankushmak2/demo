@@ -125,6 +125,18 @@ b,
 strong {
   font-weight: bolder;
 }
+.drop{
+  padding-left: 182px;
+  padding-right: 182px;
+  padding-top: 8px;
+  padding-bottom:8px ;
+
+}
+.butt{
+  display: flex;
+  justify-items: center;
+  justify-content: center;
+}
 
 /*
 1. Use the user's configured `mono` font family by default.
